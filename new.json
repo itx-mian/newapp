@@ -1,0 +1,14 @@
+[
+    {
+        "variableName": "ButtonOne",
+        "imageURL": "http://localhost/json/one.png"
+    },
+    {
+        "variableName": "ButtonTne",
+        "imageURL": "http://localhost/json/four.png"
+    },
+    {
+        "variableName": "ButtonTwo",
+        "imageURL": "http://localhost/json/two.png"
+    }
+]
